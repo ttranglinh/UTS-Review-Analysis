@@ -14,15 +14,27 @@ These data are crawled from [Google Reviews](https://www.google.com/search?q=UTS
 **Analysis and Insights**
 
 - Overall sentiment (pie chart)
-![image](https://github.com/user-attachments/assets/82dc9e30-0b11-443d-a2a5-d2fb5b380567)
+<img src="https://github.com/user-attachments/assets/82dc9e30-0b11-443d-a2a5-d2fb5b380567" width="300" height="300">
 
-- Sentiment trend over year (horizontal bar chart)
+Most of the comments on 2 platforms are positive and neutral. 
 
+- Sentiment trend over year (horizontal bar chart):
+<img src="https://github.com/user-attachments/assets/54c3466d-f51e-4b44-b3c2-c6e18399df39" width="500" height="400">
+<img src="https://github.com/user-attachments/assets/4a2f7fa9-2fa1-4cc3-aa0a-2c1756559b2d" width="500" height="400">
+
+There are reviews mostly in 2018 on Seek, and negligible fluctuation in the number of reviews over the year on Google. However, the sentiment analysis will focus mostly on the comments and not the time period to have a general view.
 
 - Top 20 common phrases in Reviews
+<img src="https://github.com/user-attachments/assets/64804ca7-d811-49fe-a1af-59bcaae8910c" width="700" height="400">
+
+
 - Wordclouds: negative and positive reviews
+<img src="https://github.com/user-attachments/assets/ffc496eb-3c77-44ba-8634-40c0f55040ed" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/d3142142-cca9-48cf-92fe-e0e3a35b0612" width="600" height="400">
+
+
 
 **Further exploration**
 
-
+With the constant flow of feedback from surveys across the university environment, this sentiment analysis model indicates how we can develop and keep track of feedback patterns overtime and generate insights for the proper actions.
 
